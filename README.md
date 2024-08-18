@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, SQL**
 
-- Questions?: **inboxanushka4@gmail.com**
+- Questions? **inboxanushka4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
