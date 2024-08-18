@@ -1,4 +1,4 @@
-![b7fe0977bad1950393d6450f32a37ca0](https://github.com/user-attachments/assets/0169d3ea-4504-4f2a-a1b5-e0326fc91bd7)        
+<h1>align = "center"</h1> ![b7fe0977bad1950393d6450f32a37ca0](https://github.com/user-attachments/assets/0169d3ea-4504-4f2a-a1b5-e0326fc91bd7)        
 
 
 <h3 align="center">Heyy, I'm Anushka. </h3>
