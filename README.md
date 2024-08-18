@@ -1,6 +1,7 @@
 <h1 align="center">Heyy, I'm Anushka. </h1>
 <h3 align="center">Data Science and ML Engineer.</h3>
-- "Flaunting the unprofessional me."
+
+- Flaunting the unprofessional me.
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, SQL**
 
