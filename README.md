@@ -2,10 +2,10 @@
 
 
 <h3 align="center">Heyy, I'm Anushka. </h3>
-<h3 align="center">Data Science and ML Engineer.</h3>
+<h4 align="center">Data Science and ML Engineer.</h4>
 
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, SQL**
+- I’m currently learning **Data Science, Machine Learning, SQL**
 
 - Questions? **inboxanushka4@gmail.com**
 
