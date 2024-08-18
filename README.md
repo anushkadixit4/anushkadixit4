@@ -4,7 +4,6 @@
 
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, SQL**
-![download (1)](https://github.com/user-attachments/assets/0cc5376d-376f-43f4-865d-cd771660e54b)
 
 - Questions? **inboxanushka4@gmail.com**
 
