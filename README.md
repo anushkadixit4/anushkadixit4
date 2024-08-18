@@ -1,9 +1,10 @@
 <h1 align="center">Heyy, I'm Anushka Dixit</h1>
-<h3 align="center">Flaunting the unprofessional me.</h3>
+<h3 align="center">Data Science and ML Engineer.</h3>
+<h4 align="center">Flaunting the unprofessional me.</h4>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, SQL**
 
-- Let's connect. **inboxanushka4@gmail.com**
+- Questions?: **inboxanushka4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
