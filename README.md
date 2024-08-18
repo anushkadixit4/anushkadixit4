@@ -1,9 +1,10 @@
-https://pin.it/5yeQBM5PK
+
 <h1 align="center">Heyy, I'm Anushka. </h1>
 <h3 align="center">Data Science and ML Engineer.</h3>
 
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, SQL**
+![download (1)](https://github.com/user-attachments/assets/0cc5376d-376f-43f4-865d-cd771660e54b)
 
 - Questions? **inboxanushka4@gmail.com**
 
