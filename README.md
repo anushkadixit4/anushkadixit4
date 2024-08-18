@@ -1,4 +1,5 @@
-![b7fe0977bad1950393d6450f32a37ca0](https://github.com/user-attachments/assets/0169d3ea-4504-4f2a-a1b5-e0326fc91bd7)
+![b7fe0977bad1950393d6450f32a37ca0](https://github.com/user-attachments/assets/0169d3ea-4504-4f2a-a1b5-e0326fc91bd7)        ![0b5cc024841accd9a31a7b2daeb0e57b](https://github.com/user-attachments/assets/e8f29e06-6e84-4a6c-a289-bb3e15349ec5)
+
 
 <h1 align="center">Heyy, I'm Anushka. </h1>
 <h3 align="center">Data Science and ML Engineer.</h3>
