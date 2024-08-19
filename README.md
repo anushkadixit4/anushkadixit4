@@ -1,9 +1,7 @@
 
  ![download](https://github.com/user-attachments/assets/38483ac1-2210-408b-9a75-c5f9253ff15c)
 
- ![b7fe0977bad1950393d6450f32a37ca0](https://github.com/user-attachments/assets/0169d3ea-4504-4f2a-a1b5-e0326fc91bd7)        
-
-
+     
 <h3 align="center">Heyy, I'm Anushka. </h3>
 <h4 align="center">Data Science and ML Engineer.</h4>
 
@@ -11,6 +9,10 @@
 - I’m currently learning **Data Science, Machine Learning, SQL**
 
 - Questions? **inboxanushka4@gmail.com**
+
+  ![b7fe0977bad1950393d6450f32a37ca0](https://github.com/user-attachments/assets/870cf4ee-1f10-40bf-8e39-6f399adcf9b0)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
