@@ -10,7 +10,7 @@
 
 - Questions? **inboxanushka4@gmail.com**
 
-  ![b7fe0977bad1950393d6450f32a37ca0](https://github.com/user-attachments/assets/870cf4ee-1f10-40bf-8e39-6f399adcf9b0)
+
 
 
 
