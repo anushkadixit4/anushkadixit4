@@ -49,5 +49,5 @@ Open to collaborative projects and new learning experiences.
 ### Connect
 
 - Email: [inboxanushka4@gmail.com](mailto:inboxanushka4@gmail.com)
-- LinkedIn: [linkedin.com/anushka-dixit](https://linkedin.com/anushka-dixit)
+- LinkedIn: [linkedin.com/in/anushka-dixit](https://www.linkedin.com/in/anushka-dixit-3a8238250c/)
 - Location: Pune, India
