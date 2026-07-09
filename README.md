@@ -2,10 +2,9 @@
 
 **Data Engineer · R Systems International · Pune, India**
 
-I work on data pipelines and analytics, migrating enterprise SQL workloads to a Databricks Lakehouse
-with PySpark and building Power BI dashboards used for day-to-day business decisions. Background in
-machine learning and data science from my B.E. in Artificial Intelligence & Data Science at Savitribai
-Phule Pune University.
+I work as a Data Engineer at R Systems, have experience in building dashboards using PowerBI; Databricks, ETL.
+Background in machine learning and data science from my B.E. in Artificial Intelligence & Data Science at
+Savitribai Phule Pune University.
 
 Databricks Certified Data Engineer Associate.
 
